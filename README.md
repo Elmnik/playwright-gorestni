@@ -1,6 +1,6 @@
 # Playwright-gorestni
 
-Task Requirements
+This is Backend CRUD Operation for a Public Testing API
 
 	1.	Set up a Playwright project in TypeScript with a POM structure.
  
